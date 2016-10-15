@@ -1,0 +1,6 @@
+numpy==1.10.4
+scipy==0.17.0
+pandas==0.18.0
+scikit-learn==0.17.1
+matplotlib==1.5.1
+psutil==4.1.0
